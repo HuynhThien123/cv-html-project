@@ -1,1 +1,1 @@
-https://huynhthien123.github.io/cv-html-project/
+https://github.com/HuynhThien123/cv-html-project

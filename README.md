@@ -1,4 +1,4 @@
-# CV HTML Project
+CV HTML Project
 
-## Project URL:
+Project URL:
 https://huynhthien123.github.io/cv-html-project/
